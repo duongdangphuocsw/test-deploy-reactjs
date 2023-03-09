@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/git@github.com:duongdangphuocsw/test-deploy-reactjs/static/css/main.073c9b0a.css",
-    "main.js": "/git@github.com:duongdangphuocsw/test-deploy-reactjs/static/js/main.24b74106.js",
-    "static/js/787.28cb0dcd.chunk.js": "/git@github.com:duongdangphuocsw/test-deploy-reactjs/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/git@github.com:duongdangphuocsw/test-deploy-reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/git@github.com:duongdangphuocsw/test-deploy-reactjs/index.html",
-    "main.073c9b0a.css.map": "/git@github.com:duongdangphuocsw/test-deploy-reactjs/static/css/main.073c9b0a.css.map",
-    "main.24b74106.js.map": "/git@github.com:duongdangphuocsw/test-deploy-reactjs/static/js/main.24b74106.js.map",
-    "787.28cb0dcd.chunk.js.map": "/git@github.com:duongdangphuocsw/test-deploy-reactjs/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/test-deploy-reactjs/static/css/main.073c9b0a.css",
+    "main.js": "/test-deploy-reactjs/static/js/main.64a7f1d1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/test-deploy-reactjs/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/test-deploy-reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-deploy-reactjs/index.html",
+    "main.073c9b0a.css.map": "/test-deploy-reactjs/static/css/main.073c9b0a.css.map",
+    "main.64a7f1d1.js.map": "/test-deploy-reactjs/static/js/main.64a7f1d1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/test-deploy-reactjs/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.24b74106.js"
+    "static/js/main.64a7f1d1.js"
   ]
 }
